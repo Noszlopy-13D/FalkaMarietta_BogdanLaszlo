@@ -35,7 +35,7 @@
    ```
 
 ### Környezeti változók beállítása:
-   A projektben megtalálhatók az általam létrehozott .env fájlok, ezeket közvetlenül használhatók
+   A projektben megtalálhatók az általam létrehozott .env fájlok, ezek közvetlenül használhatók
    
    ```env
    SMTP_HOST=smtp.gmail.com
