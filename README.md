@@ -91,7 +91,7 @@
 * az adatok használata költségekkel járhat
 
 ### Figyelmeztetés a Google Maps költségekről 
-a térkép funkció használata Google Maps API szükséges, ami költségekkel jár:
+a térkép funkció használatához Google Maps API szükséges, ami költségekkel jár:
 * minden térképes megjelenítés és marker létrehozása számlázható
 * a MÁV járatok megjelenítése markerenként
 * nagy forgalom esetén ez gyorsan összeadódhat
